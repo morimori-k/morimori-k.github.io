@@ -4,7 +4,7 @@
   const btn = document.getElementById('btn');
 
   btn.addEventListener('click',() => {
-    const n = Math.floor(Math.random() * 3);
+    const n = Math.floor(Math.random() * 5);
     btn.textContent = n;
 
     switch (n) {
