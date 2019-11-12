@@ -9,7 +9,7 @@
 
     switch (n) {
       case 0:
-        btn.textContent ='大吉';
+        btn.textContent ='大大吉';
         break;
       case 1:
         btn.textContent ='中吉';
