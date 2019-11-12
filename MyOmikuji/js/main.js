@@ -14,9 +14,15 @@
       case 1:
         btn.textContent ='ハズレ';
         break;
-      case 2:
-        btn.textContent ='ハズレ';
-        break;
+        case 2:
+          btn.textContent ='ハズレ';
+          break;
+        case 3:
+          btn.textContent ='もう一度';
+          break;
+        case 4:
+          btn.textContent ='残念';
+          break;
       }
   });
 }
