@@ -9,13 +9,13 @@
 
     switch (n) {
       case 0:
-        btn.textContent ='大大吉';
+        btn.textContent ='当たり';
         break;
       case 1:
-        btn.textContent ='中吉';
+        btn.textContent ='ハズレ';
         break;
       case 2:
-        btn.textContent ='小吉';
+        btn.textContent ='ハズレ';
         break;
       }
   });
